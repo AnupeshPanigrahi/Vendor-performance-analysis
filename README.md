@@ -114,16 +114,12 @@ python ingestion_db.py
 ### 5. Generate Vendor Summary
 python get_vendor_summary.py
 ### 6. Open the Dashboard
-
 Open the following file using **Microsoft Power BI Desktop**:
 vendor_performance.pbix
-```
 
----
 
 ## 📊 Analytics Pipeline
 
-```text
 CSV Files
     │
     ▼
@@ -143,13 +139,10 @@ EDA Notebook
     │
     ▼
 Power BI Dashboard
-```
 
----
 
 ## 📷 Sample Output
 
-```text
 ✔ Database Created
 
 ✔ Data Loaded Successfully
@@ -159,7 +152,6 @@ Power BI Dashboard
 ✔ CSV Exported Successfully
 
 ✔ Dashboard Ready
-```
 
 ---
 
