@@ -13,37 +13,28 @@ This project is designed to help organizations identify high-performing vendors,
 
 # ✨ Features
 
-✅ Automated Data Ingestion
-
-✅ SQLite Database Creation
-
-✅ SQL-Based Data Analysis
-
-✅ Data Cleaning & Transformation
-
-✅ Exploratory Data Analysis (EDA)
-
-✅ KPI Calculation
-
-✅ Vendor Profitability Analysis
-
-✅ Interactive Power BI Dashboard
-
-✅ Business Report Generation
+1.Data ingestion from CSV files into SQLite
+2.Automated ETL pipeline using Python
+3.Data cleaning and preprocessing
+4.SQL-based vendor summary generation
+5.Business KPI calculation
+6.Interactive Power BI dashboard
+7.Exploratory Data Analysis (EDA) using Jupyter Notebook
+8.PDF report generation
 
 ---
 
 # 🛠️ Tech Stack
 
-| Category      | Technologies      |
-| ------------- | ----------------- |
-| Language      | Python            |
-| Database      | SQLite            |
-| Data Analysis | Pandas            |
-| SQL           | SQLite SQL        |
-| Visualization | Power BI          |
-| Notebook      | Jupyter           |
-| IDE           | VS Code / Jupyter |
+1.Programming Language: Python
+2.Database: SQLite
+3.Libraries:
+          Pandas
+          SQLAlchemy
+          SQLite3
+          Logging
+4.Visualization: Power BI
+5.Notebook: Jupyter Notebook
 
 ---
 
