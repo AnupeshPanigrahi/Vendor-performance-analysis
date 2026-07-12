@@ -107,34 +107,13 @@ Vendor-Performance-Analysis/
 ---
 
 # 📊 Dashboard Preview
+- Power BI Dashboard shows:
+  - Vendor-wise Sales and Margins
+  - Inventory Turnover
+  - Bulk Purchase Savings
+  - Performance Heatmaps
 
-## Executive Dashboard
-
-> Replace this image after uploading your screenshot.
-
-```text
-"D:\Image\vendor analysis dahboard.png"
-```
-
-```markdown
-![Dashboard](images/dashboard.png)
-```
-
----
-
-## Sales Analysis
-
-```markdown
-![Sales Dashboard](images/sales_dashboard.png)
-```
-
----
-
-## Vendor Performance
-
-```markdown
-![Vendor Dashboard](images/vendor_dashboard.png)
-```
+![Vendor Performance Dashboard](images/dashboard.png)
 
 ---
 
