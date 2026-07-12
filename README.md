@@ -113,7 +113,7 @@ Vendor-Performance-Analysis/
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![Vendor Performance Dashboard](images/dashboard.png)
+![Vendor Performance Dashboard](dashboard.png)
 
 ---
 
