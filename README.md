@@ -116,7 +116,7 @@ Vendor-Performance-Analysis/
 # ▶️ How to Run
 
 1. Clone the repository
-git clone https://github.com/yourusername/vendor-performance-analysis.git
+git clone https://github.com/AnupeshPanigrahi/Vendor-performance-analysis
 2. Install dependencies
 pip install pandas sqlalchemy
 3. Load data into SQLite
@@ -221,19 +221,10 @@ This project demonstrates practical experience in:
 
 🔗 GitHub: https://github.com/YOUR_USERNAME
 
-🔗 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+🔗 LinkedIn: https://linkedin.com/in/anupeshpanirahi
 
 ---
 
-# ⭐ Support
-
-If you found this project useful:
-
-⭐ Star this repository
-
-🍴 Fork this repository
-
-📢 Share it with others
 
 ---
 
