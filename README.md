@@ -64,7 +64,6 @@ Vendor-Performance-Analysis/
 
 # 🔄 Project Workflow
 
-```
 1.Load raw CSV files.
 2.Store datasets in a SQLite database.
 3.Merge purchase, sales, invoice, and pricing data using SQL queries.
@@ -77,6 +76,7 @@ Vendor-Performance-Analysis/
 ---
 
 # 📊 Dashboard Preview
+
 - Power BI Dashboard shows:
   - Vendor-wise Sales and Margins
   - Inventory Turnover
