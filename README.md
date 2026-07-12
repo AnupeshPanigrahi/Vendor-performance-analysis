@@ -13,15 +13,15 @@ This project is designed to help organizations identify high-performing vendors,
 
 ## ✨ Features
 
-- ✅ Automated Data Ingestion
-- ✅ SQLite Database Creation
-- ✅ SQL-Based Data Analysis
-- ✅ Data Cleaning & Transformation
-- ✅ Exploratory Data Analysis (EDA)
-- ✅ KPI Calculation
-- ✅ Vendor Profitability Analysis
-- ✅ Interactive Power BI Dashboard
-- ✅ Business Report Generation
+-  Automated Data Ingestion
+-  SQLite Database Creation
+-  SQL-Based Data Analysis
+-  Data Cleaning & Transformation
+-  Exploratory Data Analysis (EDA)
+-  KPI Calculation
+-  Vendor Profitability Analysis
+-  Interactive Power BI Dashboard
+-  Business Report Generation
 ---
 
 ## 🛠️ Tech Stack
