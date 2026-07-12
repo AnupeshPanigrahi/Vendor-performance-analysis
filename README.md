@@ -83,12 +83,6 @@ The Power BI dashboard provides insights into:
 - 📊 Performance Heatmaps
 
 > **Screenshot**
-
-```text
-Image/dashboard.png
-```
-
-```markdown
 ![Vendor Performance Dashboard](Image/dashboard.png)
 ```
 
