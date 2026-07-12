@@ -117,7 +117,7 @@ python get_vendor_summary.py
 Open the following file using **Microsoft Power BI Desktop**:
 vendor_performance.pbix
 
-
+---
 ## 📊 Analytics Pipeline
 
 CSV Files
@@ -140,7 +140,7 @@ EDA Notebook
     ▼
 Power BI Dashboard
 
-
+---
 ## 📷 Sample Output
 
 ✔ Database Created
