@@ -100,7 +100,7 @@ The Power BI dashboard provides insights into:
 - ⭐ Top Vendors
 - 📉 Low Performing Vendors
 
-
+---
 ## ▶️ How to Run
 
 ### 1. Clone the Repository
