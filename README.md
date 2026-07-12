@@ -11,9 +11,7 @@ This project is designed to help organizations identify high-performing vendors,
 
 ---
 
-# ✨ Features
-
-
+# ✨ Features:
 Data ingestion from CSV files into SQLite
 Automated ETL pipeline using Python
 Data cleaning and preprocessing
