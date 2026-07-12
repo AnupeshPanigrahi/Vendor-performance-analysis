@@ -73,35 +73,14 @@ Vendor-Performance-Analysis/
 
 # 🔄 Project Workflow
 
-```text
-                 Raw CSV Files
-                       │
-                       ▼
-              Data Ingestion (Python)
-                       │
-                       ▼
-             SQLite Database Creation
-                       │
-                       ▼
-                SQL Data Processing
-                       │
-                       ▼
-           Data Cleaning & Validation
-                       │
-                       ▼
-           Exploratory Data Analysis
-                       │
-                       ▼
-               KPI Calculation
-                       │
-                       ▼
-         Vendor Summary Generation
-                       │
-                       ▼
-          Power BI Interactive Dashboard
-                       │
-                       ▼
-             Business Decision Making
+```
+1.Load raw CSV files.
+2.Store datasets in a SQLite database.
+3.Merge purchase, sales, invoice, and pricing data using SQL queries.
+4.Clean missing values and standardize the data.
+5.Calculate business KPIs.
+6.Export the vendor summary.
+7.Visualize insights in Power BI.
 ```
 
 ---
