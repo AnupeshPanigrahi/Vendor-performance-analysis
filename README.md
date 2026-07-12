@@ -104,40 +104,18 @@ The Power BI dashboard provides insights into:
 ## ▶️ How to Run
 
 ### 1. Clone the Repository
-
-```bash
 git clone https://github.com/AnupeshPanigrahi/Vendor-performance-analysis.git
-```
-
 ### 2. Navigate to the Project Folder
-
-```bash
 cd Vendor-performance-analysis
-```
-
 ### 3. Install Dependencies
-
-```bash
 pip install pandas sqlalchemy
-```
-
 ### 4. Load Data into SQLite
-
-```bash
 python ingestion_db.py
-```
-
 ### 5. Generate Vendor Summary
-
-```bash
 python get_vendor_summary.py
-```
-
 ### 6. Open the Dashboard
 
 Open the following file using **Microsoft Power BI Desktop**:
-
-```text
 vendor_performance.pbix
 ```
 
