@@ -24,17 +24,17 @@ This project is designed to help organizations identify high-performing vendors,
 - ✅ Business Report Generation
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-1.Programming Language: Python
-2.Database: SQLite
-3.Libraries:
-          Pandas
-          SQLAlchemy
-          SQLite3
-          Logging
-4.Visualization: Power BI
-5.Notebook: Jupyter Notebook
+1. **Programming Language:** Python
+2. **Database:** SQLite
+3. **Libraries:**
+   - Pandas
+   - SQLAlchemy
+   - SQLite3
+   - Logging
+4. **Visualization:** Power BI
+5. **Notebook:** Jupyter Notebook
 
 ---
 
