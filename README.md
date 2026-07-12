@@ -129,7 +129,7 @@ Vendor-Performance-Analysis/
 > Replace this image after uploading your screenshot.
 
 ```text
-images/dashboard.png
+"D:\Image\vendor analysis dahboard.png"
 ```
 
 ```markdown
