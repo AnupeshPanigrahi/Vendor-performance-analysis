@@ -132,85 +132,20 @@ Vendor-Performance-Analysis/
 
 ---
 
-# 📚 Business Questions Answered
-
-* Which vendors generate the highest revenue?
-* Which vendors are most profitable?
-* Which vendors have the highest freight costs?
-* Which vendors contribute to losses?
-* How efficiently is inventory being utilized?
-* Which products have the highest sales volume?
-* What is the overall profit margin?
-
 ---
 
-# ⚙️ Installation
+# ▶️ How to Run
 
-## Clone Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-```
-
----
-
-## Create Virtual Environment
-
-```bash
-python -m venv venv
-```
-
----
-
-## Activate Environment
-
-Windows
-
-```bash
-venv\Scripts\activate
-```
-
-Linux / macOS
-
-```bash
-source venv/bin/activate
-```
-
----
-
-## Install Dependencies
-
-```bash
-pip install pandas sqlalchemy jupyter
-```
-
----
-
-# ▶️ Run the Project
-
-### Step 1
-
-```bash
+1. Clone the repository
+git clone https://github.com/yourusername/vendor-performance-analysis.git
+2. Install dependencies
+pip install pandas sqlalchemy
+3. Load data into SQLite
 python ingestion_db.py
-```
-
-### Step 2
-
-```bash
+4. Generate vendor summary
 python get_vendor_summary.py
-```
-
-### Step 3
-
-Open
-
-```
-vendor_performance.pbix
-```
-
-using Power BI Desktop.
-
----
+5. Open the dashboard
+Open the vendor_performance.pbix file using Microsoft Power BI Desktop.
 
 # 📊 Analytics Pipeline
 
