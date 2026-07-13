@@ -183,19 +183,6 @@ Power BI Dashboard
 - Problem Solving
 
 ---
-
-## 🎯 Resume Impact
-
-This project demonstrates practical experience in:
-
-- End-to-End Data Analytics
-- Business Intelligence Reporting
-- Database Management
-- SQL Query Optimization
-- Python Automation
-- Data Visualization
-- Business KPI Development
-
 ---
 
 ## 👨‍💻 Author
